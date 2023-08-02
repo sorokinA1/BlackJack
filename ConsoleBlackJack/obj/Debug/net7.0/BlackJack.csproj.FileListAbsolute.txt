@@ -1,0 +1,15 @@
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.csproj.AssemblyReference.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.AssemblyInfoInputs.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.AssemblyInfo.cs
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/bin/Debug/net7.0/BlackJack
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/bin/Debug/net7.0/BlackJack.deps.json
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/bin/Debug/net7.0/BlackJack.runtimeconfig.json
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/bin/Debug/net7.0/BlackJack.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/bin/Debug/net7.0/BlackJack.pdb
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/refint/BlackJack.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.pdb
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/BlackJack.genruntimeconfig.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/BlackJack/obj/Debug/net7.0/ref/BlackJack.dll
